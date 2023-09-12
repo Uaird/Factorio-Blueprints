@@ -1,4 +1,3 @@
-# AoC21-Forth
-These are Forth solutions for the Advent of Code 2021. These solutions are part of my ongoing process of learning Forth, and should not be used as reference. 
+# Factorio Blueprints
 
-Made using Gforth 0.7.3
+This is just a collection of my blueprints.
