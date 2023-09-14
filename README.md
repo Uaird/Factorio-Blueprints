@@ -9,3 +9,7 @@ Logistics Mall Train:
 LED Building Block:
 
 ![image](https://github.com/Uaird/Factorio-Blueprints/assets/96286260/e6a3d089-cdee-4258-b191-33ee4288c024)
+
+Bad Internet:
+
+![image](https://github.com/Uaird/Factorio-Blueprints/assets/96286260/a55f59bd-93ca-45b9-8153-189960cefa68)
