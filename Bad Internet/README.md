@@ -33,7 +33,7 @@ A read-only node has been connected to a client node. We're going to try to read
 
  <img src="https://github.com/Uaird/Factorio-Blueprints/assets/96286260/c5a6d8fe-77e1-4e33-8242-d44343eefea92" width="600" height="450">
 
- #Technical Notes
+ # Technical Notes
 
 
 
