@@ -1,5 +1,7 @@
 ![image](https://github.com/Uaird/Factorio-Blueprints/assets/96286260/50300699-2095-479d-a1ed-ac44f80fdf2d)
 
+Included in the book is a blueprint called "Original Design". It uses Nixie Tubes, Text Plates, and Pushbuttons.
+
  
  
  	\\C_DETECT means collision detection, if it's >1, it means two or more items are trying to do something on the line.
