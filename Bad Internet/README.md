@@ -2,7 +2,8 @@
 
 Ever need to use more than one wire, but don't want to? This project enables you to read and write information from nodes connected to a single wire.
 
-![image](https://github.com/Uaird/Factorio-Blueprints/assets/96286260/d19bff6b-1d96-4031-ac1e-9e27b20676ed)
+![image](https://github.com/Uaird/Factorio-Blueprints/assets/96286260/c63372cc-8474-41a5-806a-c528ce1d9cab)
+
 
 
 Included in the book is a blueprint called "Original Design". It uses Nixie Tubes, Text Plates, and Pushbuttons. All other blueprints are vanilla.
