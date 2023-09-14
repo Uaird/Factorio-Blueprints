@@ -1,4 +1,8 @@
-	\\C_DETECT means collision detection, if it's >1, it means two or more items are trying to do something on the line.
+![image](https://github.com/Uaird/Factorio-Blueprints/assets/96286260/50300699-2095-479d-a1ed-ac44f80fdf2d)
+
+ 
+ 
+ 	\\C_DETECT means collision detection, if it's >1, it means two or more items are trying to do something on the line.
 	\\WRITE_RCVD is a confirmation that the input signal has been written
 	\\No plans for congestion handling
 
