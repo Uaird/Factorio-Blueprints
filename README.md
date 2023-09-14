@@ -12,4 +12,5 @@ LED Building Block:
 
 Bad Internet:
 
-![image](https://github.com/Uaird/Factorio-Blueprints/assets/96286260/a55f59bd-93ca-45b9-8153-189960cefa68)
+![image](https://github.com/Uaird/Factorio-Blueprints/assets/96286260/541af8a8-c4b3-4174-ac24-e79e283a7849)
+
