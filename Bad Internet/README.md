@@ -24,7 +24,7 @@ The R%15 combinator in the request node blueprint sets the average amount of tic
 
 
 
-		BLACK		WHITE		GRAY	ETC
+			BLACK		WHITE		GRAY	ETC
 
 	READ REQUEST:
 	
