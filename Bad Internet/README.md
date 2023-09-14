@@ -1,4 +1,4 @@
-![image](https://github.com/Uaird/Factorio-Blueprints/assets/96286260/e31a5c01-f225-4444-9133-f07fb058a35f)
+![image](https://github.com/Uaird/Factorio-Blueprints/assets/96286260/d19bff6b-1d96-4031-ac1e-9e27b20676ed)
 
 
 Included in the book is a blueprint called "Original Design". It uses Nixie Tubes, Text Plates, and Pushbuttons. All other blueprints are vanilla.
