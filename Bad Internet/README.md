@@ -7,7 +7,7 @@ Ever need to use more than one wire, but don't want to? This project enables you
 
 
 Included in the book is a blueprint called "Original Design". It uses Nixie Tubes, Text Plates, and Pushbuttons. All other blueprints are vanilla.
-The R%15 combinator in the request node blueprint sets the average amount of ticks to retry in the event of a collision. You can change the number to higher values for particularly large networks.
+The R%15 combinator in the client node blueprint sets the average amount of ticks to retry in the event of a collision. You can change the number to higher values for particularly large networks.
 
  
  
