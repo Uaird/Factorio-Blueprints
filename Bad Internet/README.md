@@ -32,7 +32,7 @@ The R%15 combinator in the request node blueprint sets the average amount of tic
 
 
 
-	FAST REQUEST NODE:
+	FAST CLIENT NODE:
 	
 		INPUT 		1	-	-	-	-	-	-	-
 		READ 		-	-	-	-	-	1	-	-
@@ -44,7 +44,7 @@ The R%15 combinator in the request node blueprint sets the average amount of tic
 	
 	
 	
-	MEMORY NODE:
+	RW MEMORY NODE:
 	
 		SIGNAL		1	-	-	-	-	-	-	-
 		READ		-	-	1	-	-	-	-	-
