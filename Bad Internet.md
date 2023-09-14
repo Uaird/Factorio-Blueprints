@@ -1,13 +1,13 @@
-\\C_DETECT means collision detection, if it's >1, it means two or more items are trying to do something on the line.
-\\WRITE_RCVD is a confirmation that the input signal has been written
-\\No plans for congestion handling
+	\\C_DETECT means collision detection, if it's >1, it means two or more items are trying to do something on the line.
+	\\WRITE_RCVD is a confirmation that the input signal has been written
+	\\No plans for congestion handling
 
-\\C_DETECT	BLACK	=1
-\\READ OUT	GRAY	=0
-\\READ		GRAY	=1
-\\WRITE		GRAY	=2
-\\WRITE_RCVD	GRAY	=3
-\\ADDRESS	WHITE	=$ADDRESS
+	\\C_DETECT	BLACK	=1
+	\\READ OUT	GRAY	=0
+	\\READ		GRAY	=1
+	\\WRITE		GRAY	=2
+	\\WRITE_RCVD	GRAY	=3
+	\\ADDRESS	WHITE	=$ADDRESS
 
 
 
