@@ -5,7 +5,7 @@ The R%15 combinator in the request node blueprint sets the average amount of tic
 
  
  
- 	\\C_DETECT means collision detection, if it's >1, it means two or more items are trying to do something on the line.
+ 	\\C_DETECT means collision detection, if it's >1, it means two or more nodes are trying to do something on the line.
 	\\WRITE_RCVD is a confirmation that the input signal has been written
 	\\No plans for congestion handling
 
