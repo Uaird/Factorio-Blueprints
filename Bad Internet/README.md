@@ -1,6 +1,6 @@
 # Bad Internet
 
-Ever need to use more than one wire, but don't want to? This project enables you to read and write information from nodes connected to a single wire.
+Ever need to use more than one wire, but don't want to? This project enables you to read and write information from nodes connected to a single wire. The instructions are in the blueprint.
 
 ![image](https://github.com/Uaird/Factorio-Blueprints/assets/96286260/c63372cc-8474-41a5-806a-c528ce1d9cab)
 
