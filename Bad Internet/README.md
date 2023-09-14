@@ -26,21 +26,23 @@
 
 
 	FAST REQUEST NODE:
-
-		INPUT 		1	-	-	-	-	-
-		READ 		-	-	-	-	-	1
-		WRITE		-	-	-	-	1	-
 	
-		TICK		1	2	3	4	5	6
-
-
-
+		INPUT 		1	-	-	-	-	-	-	-
+		READ 		-	-	-	-	-	1	-	-
+		READ_RST	-	-	-	-	-	-	-	1
+		WRITE		-	-	-	-	-	1	-	-
+		WRITE_RST	-	-	-	-	-	-	-	1
+		
+		TICK		1	2	3	4	5	6	7	8
+	
+	
+	
 	MEMORY NODE:
-
-		SIGNAL		1	-	-	-	-	-
-		READ		-	-	1	-	-	-
-		WRITE_CLR	-	-	-	1	-	-
-		WRITE_RCVD	-	-	-	1	-	-
-		WRITE		-	-	-	-	1	-
 	
-		TICK		1	2	3	4	5	6
+		SIGNAL		1	-	-	-	-	-	-	-
+		READ		-	-	1	-	-	-	-	-
+		WRITE_CLR	-	-	-	1	-	-	-	-
+		WRITE_RCVD	-	-	-	1	-	-	-	-
+		WRITE		-	-	-	-	1	-	-	-
+		
+		TICK		1	2	3	4	5	6	7	8
