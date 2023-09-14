@@ -53,3 +53,6 @@ The R%15 combinator in the request node blueprint sets the average amount of tic
 		WRITE		-	-	-	-	1	-	-	-
 		
 		TICK		1	2	3	4	5	6	7	8
+
+
+![image](https://github.com/Uaird/Factorio-Blueprints/assets/96286260/e0175434-5393-41fe-a3f6-a329c9e34991)
