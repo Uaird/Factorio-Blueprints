@@ -11,36 +11,36 @@
 
 
 
-	BLACK		WHITE		GRAY	ETC
+		BLACK		WHITE		GRAY	ETC
 
-READ REQUEST:
+	READ REQUEST:
 	
- 	IN:	C_DETECT	ADDRESS		READ	-
-	OUT:	C_DETECT	ADDRESS		-	INFO
+ 		IN:	C_DETECT	ADDRESS		READ	-
+		OUT:	C_DETECT	ADDRESS		-	INFO
 
-WRITE REQUEST:
-
-	IN:	C_DETECT	ADDRESS		WRITE	INFO
-	OUT:	C_DETECT	ADDRESS		RCVD	-
-
-
-
-FAST REQUEST NODE:
-
-	INPUT 		1	-	-	-	-	-
-	READ 		-	-	-	-	-	1
-	WRITE		-	-	-	-	1	-
+	WRITE REQUEST:
 	
-	TICK		1	2	3	4	5	6
+		IN:	C_DETECT	ADDRESS		WRITE	INFO
+		OUT:	C_DETECT	ADDRESS		RCVD	-
 
 
 
-MEMORY NODE:
+	FAST REQUEST NODE:
 
-	SIGNAL		1	-	-	-	-	-
-	READ		-	-	1	-	-	-
-	WRITE_CLR	-	-	-	1	-	-
-	WRITE_RCVD	-	-	-	1	-	-
-	WRITE		-	-	-	-	1	-
+		INPUT 		1	-	-	-	-	-
+		READ 		-	-	-	-	-	1
+		WRITE		-	-	-	-	1	-
+	
+		TICK		1	2	3	4	5	6
+
+
+
+	MEMORY NODE:
+
+		SIGNAL		1	-	-	-	-	-
+		READ		-	-	1	-	-	-
+		WRITE_CLR	-	-	-	1	-	-
+		WRITE_RCVD	-	-	-	1	-	-
+		WRITE		-	-	-	-	1	-
 	
 	TICK		1	2	3	4	5	6
